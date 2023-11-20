@@ -1,2 +1,0 @@
-# Pai---zadanie
-PRODUCT.JSX
